@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/c71a121d892218f0161b1df39be0a78f/e25aa98acc763991-27/s400x600/3a06fd8c1359388e5694bfc6752559f9061804d1.pnj" width="85%">
 </div>
-
+<div align="center"> the taste of revenge is always the best.
 <!-- GIF C + GIF D (side by side, much bigger) -->
 <div align="center">
   <img src="https://64.media.tumblr.com/287a08ef034719775ad152bf0dbc048b/e25aa98acc763991-63/s100x200/b46120508069d486aaa211d29b631ab4140157f5.pnj" width="38%" style="margin-right: 35px;">
