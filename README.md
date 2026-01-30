@@ -1,30 +1,33 @@
+<!-- Top banner -->
 <p align="center">
-  <span style="font-size:22px; opacity:0.22; color:#cfcfcf;">
-     ✦ be careful who you trust salt and sugar look the same ✦
-  </span>
+  <img src="https://github.com/user-attachments/assets/141e058f-c67d-4110-be02-4fca561b5574" width="820">
 </p>
 
-<!-- GIF A (top center) -->
-<div align="center">
-  <img src="https://64.media.tumblr.com/95019e7896a13be970daec87d90ac57a/e25aa98acc763991-68/s400x600/671d331fdbd8dd859b26cb1a3a0cfca45dce9c7e.gifv" width="85%">
-</div>
-
-<!-- GIF B (center under GIF A) -->
-<div align="center">
-  <img src="https://64.media.tumblr.com/c71a121d892218f0161b1df39be0a78f/e25aa98acc763991-27/s400x600/3a06fd8c1359388e5694bfc6752559f9061804d1.pnj" width="85%">
-</div>
-<div align="center"> the taste of revenge is always the best.
-<!-- GIF C + GIF D (side by side, much bigger) -->
-<div align="center">
-  <img src="https://64.media.tumblr.com/287a08ef034719775ad152bf0dbc048b/e25aa98acc763991-63/s100x200/b46120508069d486aaa211d29b631ab4140157f5.pnj" width="38%" style="margin-right: 35px;">
-  <img src="https://64.media.tumblr.com/dc181d6a081fbc6303049bf6e7bfb262/e25aa98acc763991-e4/s100x200/858747b13e2aefd2584a0ea7a9f571ab2b3d3ed1.pnj" width="38%">
-</div>
-
-<!-- GIF E (bottom center) -->
-<div align="center">
-  <img src="https://64.media.tumblr.com/51908d2b37e74f785d1512f9448f81c6/e25aa98acc763991-77/s400x600/a7141f29f0481d4a9b7c7782d5609dfb9189a947.pnj" width="85%">
-</div>
-
+<!-- Main large GIF -->
 <p align="center">
-  <sub><sup><span style="color:#e8b7c8; font-size:24px;">durin my babyy</span></sup></sub>
+  <img src="https://64.media.tumblr.com/0ead513a619d7c6b0ccb559428bb96b2/3c533ab1870ac909-b8/s540x810/c649f7389acc3a690268e175ce5a68973e54696a.gif" width="820">
+</p>
+
+<!-- Two medium images -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0695485-6be4-4eca-98ce-d6adddf8dbae" width="360">
+  <img src="https://github.com/user-attachments/assets/a341aeec-8c3f-4fdc-a531-cfeca63b899e" width="360">
+</p>
+
+<!-- Two GIFs ABOVE the bottom 3 -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/f67bf84dded2499fc4fa5b9ced992464/3c533ab1870ac909-73/s400x600/264f652ca569d412ef4c311867f5eac80d0a96aa.gif" width="300">
+  <img src="https://64.media.tumblr.com/ac30274622ef364ccc91406b8c907112/3c533ab1870ac909-17/s400x600/8f4bcc72e8306faf307c540b58d8593da3486770.gif" width="300">
+</p>
+
+<!-- Three bottom images -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/4e5ef9ca510dafd8d7e0bd3f1b3b2c92/3c533ab1870ac909-bf/s250x400/293176b3753cf45be7defd26adde7c8694bc17e8.png" width="240">
+  <img src="https://64.media.tumblr.com/22eb9fd599f6171b87375963f1cb3b07/3c533ab1870ac909-51/s250x400/a101cbf4ee4806d2078049cc4fbd6b03650b95ad.gif" width="240">
+  <img src="https://64.media.tumblr.com/4874cc120408a8b613dc01156151eaf6/3c533ab1870ac909-ce/s250x400/f2fcab970b18d50b18059e73b2b298d4d2dc2e1f.png" width="240">
+</p>
+
+<!-- Bottom banner -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/31a0e45ec4a7104d7e60b71e8b32c1b8/3c533ab1870ac909-4c/s540x810/63d8b69a79f17445b85e6ab3dc3985aff4787852.png" width="820">
 </p>
